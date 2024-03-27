@@ -9,5 +9,8 @@
 	"FacebookLink": "",
 	"InstagramLink": "https://www.instagram.com/_guilherme.oliveira__/",
 	"LinkedinLink": "https://www.linkedin.com/in/guilherme-peres-oliveira/",
-	"CurriculoLink": ""
+	"CurriculoLink": "",
+
+	"ProjectsToHide": [
+	]
 }
