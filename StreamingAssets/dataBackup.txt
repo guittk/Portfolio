@@ -5,3 +5,8 @@
 "InstagramLink": "https://www.instagram.com/_guilherme.oliveira__/",
 "LinkedinLink": "https://www.linkedin.com/in/guilherme-peres-oliveira/",
 "CurriculoLink": "https://mega.nz/file/L0cHkRrb#nCgP46JA5ksPDAH-mssbN2NVrAlQc4f0OaDEp0ziOds"
+
+"ProjectsToHide": [
+	"ZF",
+	"Lanxess"
+]
