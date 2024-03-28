@@ -15,11 +15,35 @@ body { padding: 0; margin: 0 }
 #unity-footer { position: relative }
 .unity-mobile #unity-footer { display: none }
 
-
 .fade-out { transition: opacity 1s ease-out; opacity: 0; }
 
 #unity-logo {
     width: 154px;
     height: 130px;
     background: url('Icons/unity-logo.png') no-repeat center;
+    animation: rotate 4s ease-out infinite;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    16.66% {
+        transform: rotate(120deg);
+    }
+    33.33% {
+        transform: rotate(120deg);
+    }
+    50% {
+        transform: rotate(240deg);
+    }
+    66.66% {
+        transform: rotate(240deg);
+    }
+    83.33% {
+        transform: rotate(360deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
 }
