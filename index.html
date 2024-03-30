@@ -67,8 +67,6 @@
 
           .then((unityInstance) =>
           {
-            console.log("100%");
-
             setTimeout(() =>
             {
               loadingBar.classList.add('fade-out');
@@ -80,7 +78,6 @@
                 setTimeout(() => 
                 {
                   loadingBackground.style.display = "none";
-                  fakeBackground.remove();
                 }, 500);
               }, 500);
             }, 2500);
