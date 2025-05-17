@@ -1,5 +1,5 @@
 {  
-	"OnlyMainProjects": true,
+	"ForceHallMode": false,
 	"HorizontalCards": true,
 	
 	"InitialLanguage": "pt-br",
@@ -12,9 +12,13 @@
 	"CurriculoLink": "",
 	
 	"ProjectsToHide": [
-		"ZF",
-		"Lanxess",
 		"ABB",
+		"Neurinho",
+		"Suprema Poker"
+	],
+
+	"HallProjectsToHide": [
+		"Neurinho",
 		"Suprema Poker"
 	]
 }
