@@ -3,7 +3,7 @@
 	
 	"InitialLanguage": "pt-br",
 	"Email": "guittk@hotmail.com",
-	"Local": "Tatuí, São Paulo, Brazil",
+	"Local": "Sorocaba, São Paulo, Brazil",
 	
 	"FacebookLink": "",
 	"InstagramLink": "https://www.instagram.com/_guilherme.oliveira__/",
@@ -18,7 +18,6 @@
 	],
 
 	"HallProjectsToHide": [
-		"Neurinho",
-		"Suprema Poker"
+		"Neurinho"
 	]
 }
