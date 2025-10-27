@@ -13,11 +13,9 @@
 	"ProjectsToHide": [
 		"ABB",
 		"Bomber Game",
-		"Neurinho",
 		"Suprema Poker"
 	],
 
 	"HallProjectsToHide": [
-		"Neurinho"
 	]
 }
